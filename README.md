@@ -1,4 +1,4 @@
-##Introduction
+## Introduction
 
 Based on research into the relationship between cutting patterns and bending angles, parametric methods can be used to reverse-engineer the density of cutting patterns required for specific bending angles. This enables the design of highly customizable components for constructing complex shapes on a large scale.
 
