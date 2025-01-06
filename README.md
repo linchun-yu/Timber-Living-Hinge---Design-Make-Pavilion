@@ -6,7 +6,7 @@ While designing small-scale structures, it is crucial to consider not only the r
 
 This project involves diverse tasks spanning experimentation, derivation, digital design, manufacturing, and geometric optimization. The research is planned to last approximately one year. The primary goal for this semester is to complete a full cycle of the design-to-manufacturing workflow, testing the physical and geometric limits of various material parameters and establishing the necessary tools for each step. In the following semester, the manufacturing experiences will be fed back into the initial design to refine both the overall form and localized details.
 
-# sample
+#### sample
 ![image.png](0.photo_source/sample.png)
-# stage result
+#### stage result
 ![image.jpg](0.photo_source/stage-result.jpg)
