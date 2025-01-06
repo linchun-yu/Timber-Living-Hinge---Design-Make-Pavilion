@@ -1,3 +1,5 @@
+##Introduction
+
 Based on research into the relationship between cutting patterns and bending angles, parametric methods can be used to reverse-engineer the density of cutting patterns required for specific bending angles. This enables the design of highly customizable components for constructing complex shapes on a large scale.
 
 While designing small-scale structures, it is crucial to consider not only the relationship between wood bending and cutting patterns but also the machining limits of the equipment and the material utilization rate. Through continuous trial and error, adjustments are made iteratively to optimize the process.
