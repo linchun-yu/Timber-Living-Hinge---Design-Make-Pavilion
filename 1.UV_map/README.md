@@ -1,6 +1,9 @@
 ## UV map
 ![image.jpg](../0.photo_source/Image_of_grasshopper.jpg)
+<<<<<<< HEAD:1.UV_map/README.md
 
+=======
+>>>>>>> 832ee87f3b8a1bc97a25c948d2a0db227e31946b:1.UV_map/0.README.md
 Mapping multiple planar shapes onto a surface in one time go involves four main steps.
 1. Prepare the planes and the surface to be used and arrange them in a corresponding list. 
 2. Draw the planar shapes that need to be mapped.
@@ -19,4 +22,8 @@ The detailed process of UV mapping is as follows. First, use the "Surface Closes
 
 Once these steps are completed, connect the points using the "Polyline" component to form the desired shape on the surface. The final result is as follows.
 
+<<<<<<< HEAD:1.UV_map/README.md
 ![image.jpg](../0.photo_source/Final.jpg)
+=======
+![image.jpg](Final.jpg)
+>>>>>>> 832ee87f3b8a1bc97a25c948d2a0db227e31946b:1.UV_map/0.README.md
